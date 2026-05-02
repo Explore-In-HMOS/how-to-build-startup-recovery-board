@@ -1,0 +1,29 @@
+{
+  "startupTasks": [
+    {
+      "name": "TaskA",
+      "srcEntry": "./ets/startup/TaskA.ets",
+      "runOnThread": "mainThread",
+      "waitOnMainThread": false
+    },
+    {
+      "name": "TaskB",
+      "srcEntry": "./ets/startup/TaskB.ets",
+      "runOnThread": "mainThread",
+      "waitOnMainThread": false
+    },
+    {
+      "name": "TaskC",
+      "srcEntry": "./ets/startup/TaskC.ets",
+      "runOnThread": "mainThread",
+      "waitOnMainThread": false
+    },
+    {
+      "name": "TaskD",
+      "srcEntry": "./ets/startup/TaskD.ets",
+      "runOnThread": "mainThread",
+      "waitOnMainThread": false
+    }
+  ],
+  "configEntry": "./ets/startup/MyStartupConfig.ets"
+}

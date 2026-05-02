@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Startup Task Visualizer"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Demonstrates HarmonyOS App Startup framework"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "StartupDemo"
+    },
+    {
+      "name": "title_startup_tasks",
+      "value": "Startup Tasks"
+    },
+    {
+      "name": "title_startup_results",
+      "value": "Startup Results"
+    },
+    {
+      "name": "status_initializing",
+      "value": "Initializing..."
+    },
+    {
+      "name": "status_all_complete",
+      "value": "All Complete!"
+    },
+    {
+      "name": "status_waiting",
+      "value": "Waiting for tasks..."
+    },
+    {
+      "name": "label_view_results",
+      "value": "View Results"
+    },
+    {
+      "name": "label_dep_chain",
+      "value": "A → B → C  |  D"
+    },
+    {
+      "name": "label_total",
+      "value": "Total:"
+    },
+    {
+      "name": "label_dep_prefix",
+      "value": "dep:"
+    },
+    {
+      "name": "task_a_label",
+      "value": "Config"
+    },
+    {
+      "name": "task_a_full",
+      "value": "Config Init"
+    },
+    {
+      "name": "task_b_label",
+      "value": "Data"
+    },
+    {
+      "name": "task_b_full",
+      "value": "Data Load"
+    },
+    {
+      "name": "task_c_label",
+      "value": "Analytics"
+    },
+    {
+      "name": "task_c_full",
+      "value": "Analytics"
+    },
+    {
+      "name": "task_d_label",
+      "value": "Network"
+    },
+    {
+      "name": "task_d_full",
+      "value": "Network Check"
+    },
+    {
+      "name": "dep_none",
+      "value": "None"
+    }
+  ]
+}

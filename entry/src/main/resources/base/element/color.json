@@ -1,0 +1,76 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "card_bg",
+      "value": "#161B22"
+    },
+    {
+      "name": "bar_bg",
+      "value": "#21262D"
+    },
+    {
+      "name": "text_primary",
+      "value": "#E6EDF3"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8B949E"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#484F58"
+    },
+    {
+      "name": "dot_color",
+      "value": "#444444"
+    },
+    {
+      "name": "success",
+      "value": "#3FB950"
+    },
+    {
+      "name": "btn_bg",
+      "value": "#1A58A6FF"
+    },
+    {
+      "name": "task_a",
+      "value": "#58A6FF"
+    },
+    {
+      "name": "task_a_dim",
+      "value": "#3358A6FF"
+    },
+    {
+      "name": "task_b",
+      "value": "#3FB950"
+    },
+    {
+      "name": "task_b_dim",
+      "value": "#333FB950"
+    },
+    {
+      "name": "task_c",
+      "value": "#D29922"
+    },
+    {
+      "name": "task_c_dim",
+      "value": "#33D29922"
+    },
+    {
+      "name": "task_d",
+      "value": "#BC8CFF"
+    },
+    {
+      "name": "task_d_dim",
+      "value": "#33BC8CFF"
+    }
+  ]
+}
