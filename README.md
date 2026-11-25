@@ -25,7 +25,7 @@ It helps developers understand startup orchestration, task result retrieval, and
 ## Stack
 - **Languages**: ArkTS, ArkUI
 - **Frameworks**: HarmonyOS SDK 6.0.1(21), App Startup framework
-- **Tools**: DevEco Studio (HarmonyOS NEXT toolchain), Hvigor
+- **Tools**: DevEco Studio (HarmonyOS toolchain), Hvigor
 - **Libraries**:
     - `@kit.ArkUI`
     - `@kit.AbilityKit`
